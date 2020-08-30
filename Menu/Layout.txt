@@ -1,1 +1,1 @@
-Menu avec n items
+Menu avec 6 items
